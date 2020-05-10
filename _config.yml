@@ -4,7 +4,7 @@
 title: Blog|K Sreeman Reddy
 description: This is personal blog. # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://iamsreeman.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
+url: "iamsreeman.github.io/blog" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
