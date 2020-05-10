@@ -10,7 +10,7 @@ url: "https://iamsreeman.github.io/" # the base hostname & protocol for your sit
 #-------------------------------
 # About Section
 author-name:   Kasi Reddy Sreeman Reddy
-author-avatar: 09.jpg
+author-avatar: 00.jpg
 
 
 #-------------------------------
@@ -23,7 +23,7 @@ pinterest: https://www.pinterest.com/ # Add your Facebook handle
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: mr-brown # Add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
