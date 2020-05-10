@@ -22,6 +22,7 @@ Another such quote from [Paul Dirac](https://en.wikipedia.org/wiki/Paul_Dirac) i
 
 Another quote which I like very much is from [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan)-
 
+![alt text]( {{"/img/" | prepend: site.baseurl | append : pbdot.jpeg}} "Pale blue dot")
 ![alt text](/img/pbdot.jpeg "Pale blue dot")
 
 
