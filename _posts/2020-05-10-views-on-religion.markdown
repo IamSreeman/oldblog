@@ -5,7 +5,7 @@ date:   2020-05-10 18:05:55 +0530
 image:  01.jpg
 tags:   [Religion]
 ---
-I am an staunch atheist. But still I do read about different religions. My views on religion are complex. In short my views are similar to [Steven Weinberg](https://en.wikipedia.org/wiki/Steven_Weinberg).
+I am a staunch atheist. But still I do read about different religions. My views on religion are complex. In short my views are similar to [Steven Weinberg](https://en.wikipedia.org/wiki/Steven_Weinberg).
 
 {% highlight markdown %}
 “Religion is an insult to human dignity. Without it you would have good people doing good things and evil people doing evil things.
