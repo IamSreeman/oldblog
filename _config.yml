@@ -17,7 +17,7 @@ author-avatar: 00.jpg
 # Contact links
 facebook:  https://facebook.com/iamsreeman # Add your Facebook handle
 twitter:   https://twitter.com/iamsreeman # Add your Facebook handle
-
+instagram: https://www.instagram.com/iamsreeman/
 
 #-------------------------------
 # Comment Section (Disqus)
@@ -26,7 +26,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 
 #-------------------------------
 # Instagram Feed
-instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
+instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
 
 
 #-------------------------------
