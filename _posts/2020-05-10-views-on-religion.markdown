@@ -53,5 +53,3 @@ The Earth is the only world known so far to harbor life. There is nowhere else, 
 >
 >It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores ***our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot***, the only home we've ever known.”
 ― [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan), Pale Blue Dot: A Vision of the Human Future in Space
-{% endhighlight %}
-
