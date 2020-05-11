@@ -5,7 +5,7 @@ date:   2020-05-10 18:05:55 +0530
 image:  01.jpg
 tags:   [Atheism,Buddhism,Hinduism]
 ---
-I am a [Secular Buddhism](https://en.wikipedia.org/wiki/Secular_Buddhism)(also known as atheistic Buddhism). But still I do read about other religions. My views on religion are complex. Among all religions [Buddhism](https://en.wikipedia.org/wiki/Buddhism) is my favourute religion because it is the least religious religion. It is more of a philosophical way of life than a religion. But I don't consider myself as a mainstream Buddhist. 
+I am a [Secular Buddhist](https://en.wikipedia.org/wiki/Secular_Buddhism)(also known as atheistic Buddhism). But still I do read about other religions. My views on religion are complex. Among all religions [Buddhism](https://en.wikipedia.org/wiki/Buddhism) is my favourute religion because it is the least religious religion. It is more of a philosophical way of life than a religion. But I don't consider myself as a mainstream Buddhist. 
 
 # My views on Buddhism
 For sometime I considered myself as a Buddhist. But even Buddhism is far from perfect. It carried many superstitions from Hinduism(*Old bad habits don't go easily*). Be it the concept of Karma, previous lifes of Buddha, the existence of Hindu gods.
@@ -29,7 +29,7 @@ If you ask me this question I will say no. But technically I am still a Hindu. H
 
 You can watch it here-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Ugyrzr5Ds8o/0.jpg)](https://www.youtube.com/watch?v=Ugyrzr5Ds8o)
 
-But when compared to Buddhism, Hinduism is still **far more unscientific**. But still there are religions which are even more unscientific than Hinduism.
+But when compared to Buddhism, Hinduism is still **far more unscientific**. But still there are religions which are even more unscientific than Hinduism. So it is not that bad.
 
 # Quotes related to Religion
 The following are some quotes about religion which are similar to my views.
