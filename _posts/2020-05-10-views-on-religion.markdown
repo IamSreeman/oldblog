@@ -29,6 +29,8 @@ If you ask me this question I will say no. But technically I am still a Hindu. H
 
 You can watch it here-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Ugyrzr5Ds8o/0.jpg)](https://www.youtube.com/watch?v=Ugyrzr5Ds8o)
 
+But when compared to Buddhism, Hinduism is still **far more unscientific**. But still there are religions which are even more unscientific than Hinduism.
+
 # Quotes related to Religion
 The following are some quotes about religion which are similar to my views.
 My views will overlap to the maximum extent with **Dirac**. But this was big that's why I didn't keep it on the photo)
