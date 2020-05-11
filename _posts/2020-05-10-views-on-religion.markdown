@@ -3,16 +3,18 @@ layout: post
 title:  "My views on Religion"
 date:   2020-05-10 18:05:55 +0530
 image:  01.jpg
-tags:   [Religion,Buddhism]
+tags:   [Atheism,Buddhism,Hinduism]
 ---
-I am a staunch atheist. But still I do read about different religions. My views on religion are complex. Among all religions [Buddhism](https://en.wikipedia.org/wiki/Buddhism) is my favourute religion because it is the least religious religion. It is more of a philosophical way of life than a religion. But I don't consider myself as a Buddhist. 
+I am a [Secular Buddhism](https://en.wikipedia.org/wiki/Secular_Buddhism)(also known as atheistic Buddhism). But still I do read about other religions. My views on religion are complex. Among all religions [Buddhism](https://en.wikipedia.org/wiki/Buddhism) is my favourute religion because it is the least religious religion. It is more of a philosophical way of life than a religion. But I don't consider myself as a mainstream Buddhist. 
 
 # My views on Buddhism
 For sometime I considered myself as a Buddhist. But even Buddhism is far from perfect. It carried many superstitions from Hinduism(*Old bad habits don't go easily*). Be it the concept of Karma, previous lifes of Buddha, the existence of Hindu gods.
 
 For example Gautama Buddha was very **ambiguous** about the existence of a **Creator Deity (Brahman)** and **Eternal Self (Atman)** and rejected them both. Various sources from the Pali Canon and others suggest that the Buddha taught that belief in a Creator deity was not essential to attaining liberation from suffering, and perhaps chose to ignore theological questions because they were "fascinating to discuss," and frequently brought about more conflict and anger than peace. The Buddha did not deny the existence of the popular gods of the Vedic pantheon, but rather argued that these devas, who may be in a more exalted state than humans, are still nevertheless trapped in the **same sansaric** cycle of suffering as other beings and are not necessarily **worthy of veneration and worship**. He considered [Nirvana](https://en.wikipedia.org/wiki/Nirvana_(Buddhism)) to be the highest atainable thing and is beyond the power of Devas.
 
-Another example is [https://en.wikipedia.org/wiki/Buddhist_cosmology](https://en.wikipedia.org/wiki/Buddhist_cosmology). It is somewhat similar to [Hindu cosmology](https://en.wikipedia.org/wiki/Hindu_cosmology). Both of them involve time scales of universe which is nearly correct.(To be precise their age of universe was nearly half to that of the scientific value). But both of them had absurd ideas like the existence of different lokas(realms) like [Narakas](https://en.wikipedia.org/wiki/Buddhist_cosmology#Hells_(Narakas))(Hells) , [Svargas](https://en.wikipedia.org/wiki/Buddhist_cosmology#Heavens)(Heavens)etc.
+Another example is [https://en.wikipedia.org/wiki/Buddhist_cosmology](https://en.wikipedia.org/wiki/Buddhist_cosmology). It is somewhat similar to [Hindu cosmology](https://en.wikipedia.org/wiki/Hindu_cosmology). Both of them involve time scales of universe which is nearly correct.(To be precise their age of universe was nearly half to that of the scientific value). 
+
+But both of them had **absurd ideas** like the existence of different lokas(realms) like [Narakas](https://en.wikipedia.org/wiki/Buddhist_cosmology#Hells_(Narakas))(Hells) , [Svargas](https://en.wikipedia.org/wiki/Buddhist_cosmology#Heavens)(Heavens)etc which is not at all scientific.
 
 Although he did not believe in the **authoity of Vedas** he did believe in the existence of vedic gods. He never believed that Devas were the creators. Many people consider him as an **Atheist**. But in my opinion **Agnostic** is a word which suits him better. Because many times in Suttas he said even if god exists he will not be expecting us to pray him or do anything for him. The main purpose of our lives is to show our **compassion** to all our fellow living creatures.
 
@@ -22,7 +24,10 @@ These days a new form of Buddhism called as [Secular Buddhism](https://en.wikipe
 
 ## Am I a Hindu?
 
-If you ask me this question I will say no. But technically I am still a Hindu. Hinduism mainly refers to mainstream hinduism(there are 6 schools of Hinduism which are called [Āstika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika#%C4%80stika)). There are 5 other schools of Hinduism called as [Nāstika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika#N%C4%81stika). Buddhism is the major nāstika school. Technically all of Buddhism is considered to be a part of Hinduism in Hindu puranas. So Secualar Buddhism is also a part of it according to Hindu puranas.
+If you ask me this question I will say no. But technically I am still a Hindu. Hinduism mainly refers to mainstream hinduism(there are 6 schools of Hinduism which are called [Āstika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika#%C4%80stika)). There are 5 other schools of Hinduism called as [Nāstika](https://en.wikipedia.org/wiki/%C4%80stika_and_n%C4%81stika#N%C4%81stika). Buddhism is the major nāstika school. Technically all of Buddhism is considered to be a part of Hinduism in Hindu puranas. So Secualar Buddhism is also a part of it according to Hindu puranas. Hinduism surely has some positive sides,in the words of Carl Sagan-
+>“The Hindu religion is the only one of the world's great faiths dedicated to the idea that the Cosmos itself undergoes an immense, indeed an infinite, number of deaths and rebirths. It is the only religion in which time scales correspond to those of modern scientific cosmology. Its cycles run from our ordinary day and night to a day and night of Brahma, 8.64 billion years long, longer than the age of the Earth or the Sun and about half the time since the Big Bang.”
+
+You can watch it here-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Ugyrzr5Ds8o/0.jpg)](https://www.youtube.com/watch?v=Ugyrzr5Ds8o)
 
 # Quotes related to Religion
 The following are some quotes about religion which are similar to my views.
