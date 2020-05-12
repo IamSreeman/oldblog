@@ -40,7 +40,7 @@ My views will overlap to the maximum extent with **Dirac**. But this was big tha
 
 >“Religion is an insult to human dignity. Without it you would have good people doing good things and evil people doing evil things.
 But for good people to do evil things, that takes religion.”
-― Steven Weinberg
+― [Steven Weinberg](https://en.wikipedia.org/wiki/Steven_Weinberg)
 
 ![alt text]({{site.baseurl}}/img/pbdot.jpeg "Pale blue dot")
 
