@@ -2,9 +2,9 @@
 layout: post
 title:  "My views on Religion"
 date:   2020-05-10 18:05:55 +0530
-image:  01.jpg
 tags:   [Atheism,Buddhism,Hinduism]
 ---
+![alt text]({{site.baseurl}}/img/01.jpg "Steven Weinberg")
 I am a [Secular Buddhist](https://en.wikipedia.org/wiki/Secular_Buddhism)(also known as atheistic Buddhism). But still I do read about other religions. My views on religion are complex. Among all religions [Buddhism](https://en.wikipedia.org/wiki/Buddhism) is my favourute religion because it is the least religious religion. It is more of a philosophical way of life than a religion. But I don't consider myself as a mainstream Buddhist. 
 
 # My views on Buddhism
@@ -33,10 +33,11 @@ But when compared to Buddhism, Hinduism is still **far more unscientific**. But 
 
 # Quotes related to Religion
 The following are some quotes about religion which are similar to my views.
-My views will overlap to the maximum extent with **Dirac**. But this was big that's why I didn't keep it on the photo)
+My views will overlap to the maximum extent with **Dirac**.
 
 >“I cannot understand why we idle discussing religion. If we are honest—and scientists have to be—we must admit that religion is a jumble of false assertions, with no basis in reality. The very idea of God is a product of the human imagination. It is quite understandable why primitive people, who were so much more exposed to the overpowering forces of nature than we are today, should have personified these forces in fear and trembling. But nowadays, when we understand so many natural processes, we have no need for such solutions. I can't for the life of me see how the postulate of an Almighty God helps us in any way. What I do see is that this assumption leads to such unproductive questions as why God allows so much misery and injustice, the exploitation of the poor by the rich and all the other horrors He might have prevented. If religion is still being taught, it is by no means because its ideas still convince us, but simply because some of us want to keep the lower classes quiet. Quiet people are much easier to govern than clamorous and dissatisfied ones. They are also much easier to exploit. Religion is a kind of opium that allows a nation to lull itself into wishful dreams and so forget the injustices that are being perpetrated against the people. Hence the close alliance between those two great political forces, the State and the Church. Both need the illusion that a kindly God rewards—in heaven if not on earth—all those who have not risen up against injustice, who have done their duty quietly and uncomplainingly. That is precisely why the honest assertion that God is a mere product of the human imagination is branded as the worst of all mortal sins.”
-― [Paul Dirac](https://en.wikipedia.org/wiki/Paul_Dirac)(at the 1927 solvay conference)
+>
+>― [Paul Dirac](https://en.wikipedia.org/wiki/Paul_Dirac)(at the 1927 solvay conference)
 
 >“Religion is an insult to human dignity. Without it you would have good people doing good things and evil people doing evil things.
 But for good people to do evil things, that takes religion.”
@@ -52,4 +53,5 @@ But for good people to do evil things, that takes religion.”
 The Earth is the only world known so far to harbor life. There is nowhere else, at least in the near future, to which our species could migrate. Visit, yes. Settle, not yet. Like it or not, for the moment the Earth is where we make our stand.
 >
 >It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores ***our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot***, the only home we've ever known.”
-― [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan), Pale Blue Dot: A Vision of the Human Future in Space
+>
+>― [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan), Pale Blue Dot: A Vision of the Human Future in Space
