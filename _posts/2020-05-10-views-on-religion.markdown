@@ -5,7 +5,7 @@ date:   2020-05-10 18:05:55 +0530
 tags:   [Atheism,Buddhism,Hinduism]
 ---
 ![alt text]({{site.baseurl}}/img/01.jpg "Steven Weinberg")
-I am a [Secular Buddhist](https://en.wikipedia.org/wiki/Secular_Buddhism)(also known as atheistic Buddhism). But still I do read about other religions. My views on religion are complex. Among all religions [Buddhism](https://en.wikipedia.org/wiki/Buddhism) is my favourute religion because it is the least religious religion. It is more of a philosophical way of life than a religion. But I don't consider myself as a mainstream Buddhist. 
+I am [strong atheist](https://en.wikipedia.org/wiki/Negative_and_positive_atheism#:~:text=Positive%20atheism%2C%20also%20called%20strong,have%20appeared%20in%20George%20H.) by belief, culturally influenced by Hinduism and philosophically inspired by Buddhism. You can consider me as a [Secular Buddhist](https://en.wikipedia.org/wiki/Secular_Buddhism)(also known as atheistic Buddhism). I  strongly believe that religion is a big evil and it has to be eradicated. But still, I do read about religions. My views on religion are complex. Among all religions [Buddhism](https://en.wikipedia.org/wiki/Buddhism) is the religion which I think is the least stupid, because it is the least religious religion. It is more of a philosophical way of life than a religion. But I don't like mainstream Buddhism.
 
 # My views on Buddhism
 For sometime I considered myself as a mainstream Buddhist. But even Buddhism is far from perfect. It carried many superstitions from Hinduism(*Old bad habits don't go easily*). Be it the concept of Karma, previous lifes of Buddha, the existence of Hindu gods.
